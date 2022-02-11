@@ -1,2 +1,2 @@
 # sem-2-ds-lab
-C Program files of Data Structure Lab
+Basic Data Structure programs written in C Language
